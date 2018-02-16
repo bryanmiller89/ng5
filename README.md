@@ -1,5 +1,13 @@
 # Ng5
 
+Angular 5 web application that shows life goals/bucket list items. Demonstrates some of the following concepts/features:
+-Use of Angular forms, components, and servives
+-Observables and Rxjs Behavior Subject
+-DOM manipulation
+-Event binding and 2-way binding
+-Create and Delete from CRUD operations
+-Routing
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
